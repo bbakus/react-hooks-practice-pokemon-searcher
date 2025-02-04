@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Bulbasaur",
+      "hp": "40",
+      "sprites": {
+        "front": "https://art.pixilart.com/6ba93206eb9dad5.png",
+        "back": "https://www.kindpng.com/picc/m/130-1307540_pokemon-bulbasaur-green-back-freetoedit-bulbasaur-from-the.png"
+      },
+      "id": 151
     }
   ]
 }
